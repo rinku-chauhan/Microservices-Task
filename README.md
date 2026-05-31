@@ -87,15 +87,7 @@ http://localhost:3003/api/orders
 
 ---
 
-## Stop Services
-
-```bash
-docker compose down
-```
-
----
-
-## Screenshots
+## Screenshots (Please check folder)
 
 Include screenshots of:
 
@@ -107,3 +99,5 @@ Include screenshots of:
 * Gateway Service response
 
 ---
+
+# Thank you
