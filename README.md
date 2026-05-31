@@ -15,8 +15,7 @@ This project demonstrates the containerization of a Node.js microservices applic
 
 ## Prerequisites
 
-* Docker Desktop
-* Docker Compose
+* Docker Desktop (includes Docker Compose)
 * Git
 
 ---
@@ -87,7 +86,7 @@ http://localhost:3003/api/orders
 
 ---
 
-## Screenshots (Please check folder)
+## Screenshots (Please see folder)
 
 Include screenshots of:
 
